@@ -110,7 +110,7 @@ const handleSubmit = () => {
               Remember me
             </label>
 
-            <a href="#" class="text-purple-700 font-medium">
+            <a href="#" class="text-[#61227D] font-medium">
               Forgot Password?
             </a>
           </div>
@@ -127,7 +127,7 @@ const handleSubmit = () => {
         <!-- Footer -->
         <p class="text-center text-sm text-gray-600 mt-6">
           Don’t have an account?
-          <a href="#" class="text-purple-700 font-medium">Sign up</a>
+          <a href="#" class="text-[#61227D] font-medium">Sign up</a>
         </p>
       </div>
     </div>
